@@ -24,3 +24,10 @@ Math: 590
 	Data Analysis 
 - Geometry & Trigonometry		58%
 
+SAT Practice 7 (Math ONLY) : 580
+- Algebra 						6 out of 7 bars			35% of the Test : 13 - 15 questions
+- Advanced Math					5 out of 7 bars			35% of the Test : 13 - 15 questions
+- Problem Solving & 			4 out of 7 bars 		15% of the Test : 5 - 7 questions
+	Data Analysis										
+- Geometry & Trigonometry		5 out of 7 bars			15% of the Test : 5 - 7 questions
+
