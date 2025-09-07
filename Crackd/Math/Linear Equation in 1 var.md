@@ -1,2 +1,3 @@
 Easy		8/10
-Medium		3/3
+Medium		5/10
+Hard		6/10
